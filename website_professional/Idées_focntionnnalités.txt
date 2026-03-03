@@ -1,5 +1,0 @@
-Ce document recense toutes les idées de fonctionnalités pouvant être incluses dans un site web :
-
-- scroll infini mais qui boucle sur une série de photos déterminées.
-- clic + Roulette qui tourne et tombe sur un produit/sujet/projet en particulier.
-- 
